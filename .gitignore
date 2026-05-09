@@ -1,0 +1,11 @@
+dataset/
+__pycache__/
+my_checkpoint.pth.tar
+multiclass_unet.pth
+venv/
+archive.zip
+archive/
+*.pth
+*.tar
+*.zip
+
