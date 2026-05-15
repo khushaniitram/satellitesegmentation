@@ -1,3 +1,4 @@
+# Model training script for house and tree counter
 import argparse
 import csv
 import json
